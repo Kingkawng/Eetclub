@@ -1,0 +1,93 @@
+.grid_1,.grid_2,.grid_3,.grid_4,.grid_5,.grid_6,
+.grid_7,.grid_8,.grid_9,.grid_10,.grid_11,.grid_12,.header
+{
+    margin-left:10px;
+    margin-right:10px;
+    background: white;
+}
+
+.grid_2-5
+{
+    margin-bottom: -20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background: #fff;
+    text-align: center;
+    border: solid #B9B9B9 1px;
+}
+
+.grayblock
+{
+    background-color: #e5e5e5;
+    margin-bottom: 11px;
+    padding: 24px 21px 2px 21px;
+}
+
+.grayblock_bottom
+{
+    background-color: #e5e5e5;
+    margin-bottom: 11px;
+    padding: 24px 21px 2px 21px;
+}
+
+.blok
+{
+    margin-top: 20px;
+}
+.alpha,.omega
+{
+    margin-left:0;
+    margin-right:0
+}
+.align_center,.align_right
+{text-align:left}
+
+h1 {
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 23px;
+}
+
+h3 {
+  font-size: 21px;
+}
+
+h4 {
+  font-size: 19px;
+}
+
+h5 {
+  font-size: 17px;
+}
+
+h6 {
+  padding: 11px 25px;
+  font-size: 24px;
+  font-family: Verdana, serif;;
+}
+.footer
+{
+    background: transparent;
+    padding-bottom: 10px;
+}
+.tweet{
+ margin-top: -25px; 
+ margin-bottom: -25px;
+}
+.tabs {
+    background-color: transparent;
+    margin: -10px 0 13px 80px;
+    padding: 0;
+    text-align: center;
+    width: 1px;
+}
+.tabs_margin
+{
+   background-color: transparent;
+    margin: -15px 7px 13px 80px;
+    padding: 0;
+    text-align: center;
+    width: 1px;
+}
